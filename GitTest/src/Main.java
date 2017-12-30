@@ -6,6 +6,6 @@ public class Main {
 	}
 	
 	public static void do1() {
-		System.out.println("do1 - b1");
+		System.out.println("do1 - c1");
 	}
 }
