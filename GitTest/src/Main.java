@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("f3");
+		System.out.println("g1");
 	}
 	
 	public static void do1() {
